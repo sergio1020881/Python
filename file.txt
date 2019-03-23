@@ -1,0 +1,12 @@
+0:0:0
+0:1:1
+1:0:1
+1:1:0
+0:ola:ola chefe
+ola chefe:exit:0
+0:botoneira:motor_1
+motor_1:0:motor_1
+motor_1:botoneira:0
+
+
+
